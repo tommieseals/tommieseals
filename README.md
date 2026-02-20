@@ -52,9 +52,15 @@ Currently training in Germany, building fintech ML systems and distributed infra
 ## ⏱️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-```text
-Setting up WakaTime...
+
+```txt
+From: 12 February 2026 - To: 19 February 2026
+
+Total Time: 0 secs
+
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 > 💡 *Powered by [WakaTime](https://wakatime.com) - Install the plugin to track your coding activity!*
