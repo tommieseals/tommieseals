@@ -9,7 +9,7 @@
 <!-- Social Proof Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/REPOS-18-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/github/followers/tommieseals?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=58A6FF"/>
+  <img src="https://github.com/tommieseals/tommieseals/blob/output/github-contribution-grid-snake-dark.svg"/>
   <img src="https://komarev.com/ghpvc/?username=tommieseals&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS"/>
   <img src="https://img.shields.io/badge/ALL_CI-PASSING-2EA043?style=for-the-badge&logo=github-actions&logoColor=white"/>
 </p>
@@ -27,6 +27,18 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+## 🐍 Watch My Contributions Get Eaten
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tommieseals/tommieseals/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/tommieseals/tommieseals/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/tommieseals/tommieseals/blob/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## The Short Version
 
 I build infrastructure that runs itself. Self-healing services, intelligent monitoring, and automation that means I only touch systems when I *want* to, not when they break at 3 AM.
@@ -37,10 +49,30 @@ Currently training in Germany, building fintech ML systems and distributed infra
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+## ⏱️ Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+```text
+Setting up WakaTime...
+```
+<!--END_SECTION:waka-->
+
+> 💡 *Powered by [WakaTime](https://wakatime.com) - Install the plugin to track your coding activity!*
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## Languages and Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,bash,fastapi,flask,docker,kubernetes,git,github,githubactions,linux,postgres,redis,prometheus,grafana&theme=dark&perline=7"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📊 3D Contribution Graph
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
