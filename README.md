@@ -26,4 +26,4 @@ Production-pattern integrations rebuilt clean-room from work I run at fleet scal
 
 ---
 
-*This profile was recently consolidated — older experiments and one-off demos were archived to keep the signal high.*
+*This profile was recently consolidated — older experiments and one-off demos were archived so the signal stays high.*
